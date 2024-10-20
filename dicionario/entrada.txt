@@ -1,0 +1,10 @@
+5
+demais 5 bastante numeroso demasiado abundante excessivo
+facil 2 simples ed
+elegante 3 natural descomplicado trivial
+nada 4 zero vazio osso nulo
+trabalho 3 atividade tarefa missao
+3
+facil
+demais
+zero

@@ -1,0 +1,6 @@
+5
+lista_ed.c rw 1123
+senhas.txt ro 144
+foto.jpg rw 8374719
+documento.doc rw 64732
+lista_ed.c ro 1
